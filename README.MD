@@ -30,7 +30,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Canva](https://www.canva.com/design/DAGcf-TWMok/Fxq_FvtRlJF9AA6PL8EqTQ/edit?ui=eyJFIjp7IkE_IjoiViIsIkIiOiJCIn0sIkciOnsiQiI6dHJ1ZX19)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -44,16 +44,16 @@ ChatGPT：
 | conteúdo |Faça um texto para ebook , com foco em Minha Casa Minha Vida, listando as principais regras para enquadramento no programa e os passos para solicitar o crédito {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, sempre deixe um título sugestivo por tópico, Dê exemplos de contextos reais|
 
 
-Midjourney：
+Canva：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Um condomínio Minha Casa Minha Vida com famílias moradoras estilo cartoon |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Canva
 
 ## 📚 Materiais
 
